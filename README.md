@@ -61,45 +61,54 @@ In 1972 Esser attended the UN International Ecological Congress in Stockholm and
 
 # Transcoding
 
-In my research I could learn a lot about this specific character that Gerard Esser was. While going through all his documents I could create, what I believe, a clear idea of what kind of person he was. In one way or another I felt the urge to honor his person and the energy he spent on protecting animals.
+I wanted to use the drawings as a tool to teach children about animal rights. From children from the 70s to children from nowadays. Drawings brought back 50 years later to keep on fighting on a, still, very current issue.
 
-Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below.
-
-## Transcoding No. 1
+## Transcoding 1
 ### Description
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
+Detailed description of the actions happening in the drawings. Combining them with music made with each drawing using a website platform that turns drawings/images into music.
 
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
+* Aim
+Describing the drawings in audio files will give the chance to really understand the cruelty of the actions in the drawings without being distracted by the colorful children's drawings.
+
+* Goal
+Reach people's sensitivity and make them more aware of this issue that, even though it's been 50 years since Esser's personal fight, there is still a long way to go.
 
 ### Methods
+I used my phone to record the description of the drawings. To edit the sound I will use After Effects or a similar program.
 Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
 
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-
-Remember to include the url link to jump to the full media, of course!
-
-
-### Tools
-Mention the tools that you used or made (if and when relevant).
-
 ### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
+No final results yet.
 
-## Transcoding Tool
+## Transcoding Tool 2
 ### Description
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc.
+Website with the option of making your own drawings using the original drawings from the box. There are different landscapes that you can choose and a toolbox with all the elements that you can use to create the drawing.  
+Once the drawing is done you'll be able to save it and make a new one.
 
-### Aims
-Include the main aims or intentions behind making the tool, and what it is used for.
+Considering the idea of making the same kind of website but when using elements from the toolbox like "weapons", "hunters" or "blood", the drawing would be categorized as Wrong or Not Ok.
+
+* Aim
+To teach what's good and what's wrong when dealing with animals.
+
+* Goal
+When making a drawing the tendency is to make something happy, sweet or harmless. By giving the option of choosing elements related to cruelty the "artist" will realize that those actions are indeed unacceptable.
+
+### Sketches
+I first considered two options:
+
+* Fill In The Gaps
+
+[<img src="Documentation/img/fillinthegaps.png" width="25%">](#)
+
+* "Stick and Stack" (sticker album to create your own scenario)
+
+[<img src="Documentation/img/juego2.png" width="25%">](#)
 
 ### Methods
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
+Html/Css languages for a website.
 
 ### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
+Website with drawing tool.
 
 ### Source Links
 Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
