@@ -5,6 +5,7 @@
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
+2. [Content of the box](#content-of-the-box)    
 2. [Research](#Research-h1)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
@@ -74,8 +75,7 @@ Describing the drawings in audio files will give the chance to really understand
 Reach people's sensitivity and make them more aware of this issue that, even though it's been 50 years since Esser's personal fight, there is still a long way to go.
 
 ### Methods
-I used my phone to record the description of the drawings. To edit the sound I will use After Effects or a similar program.
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
+I used my phone to record the description of the drawings. To edit the sound I will use After Effects or a similar program.  
 
 ### Results
 No final results yet.
@@ -111,30 +111,21 @@ Html/Css languages for a website.
 Website with drawing tool.
 
 ### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
 
+* https://jqueryui.com/draggable/
 
-# Reflection
-You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
 
 # Outcomes
-This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible.
+
+* Still to be figured out.
+* Link to the website when this is finished.
 
 ### Outcome Links
-Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored.
 
-This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
 
-# Conclusion
-You might have a nice conclusive observation to share at the end :)
 
-## Bibliography
-Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work.
 
-<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
 
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography)
 
 
 <a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
