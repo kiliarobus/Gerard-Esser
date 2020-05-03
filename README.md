@@ -11,7 +11,7 @@
           2. [My Research Questions](#my-research-questions)
 3. [Research](#Research-h1)
 4. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
+    1. [Transcoding 1](#Transcoding-1)
     2. [Transcoding Tool](#Transcoding-tool)
 5. [Reflection](#Reflection)
 6. [Outcome](#Outcome)
@@ -84,7 +84,7 @@ I used my phone to record the description of the drawings. To edit the sound I w
 ### Results
 No final results yet.
 
-## Transcoding Tool 2
+## Transcoding Tool 
 ### Description
 Website with the option of making your own drawings using the original drawings from the box. There are different landscapes that you can choose and a toolbox with all the elements that you can use to create the drawing.  
 Once the drawing is done you'll be able to save it and make a new one.
