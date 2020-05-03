@@ -1,15 +1,5 @@
 [<img src="Documentation/img/cover.png" width="100%">](#)
-# TITLE HERE Example README.md Outline
 
-### Table of Contents
-1. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
-3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tool](#Transcoding-tool)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
 # ANIMAL RIGHTS FOR THE FUTURE GENERATIONS
 
 ### Table of Contents
