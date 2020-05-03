@@ -98,11 +98,11 @@ I first considered two options:
 
 * Fill In The Gaps
 
-[<img src="Documentation/img/fillinthegaps.png" width="25%">](#)
+[<img src="Documentation/img/fillinthegaps.png" width="50%">](#)
 
 * "Stick and Stack" (sticker album to create your own scenario)
 
-[<img src="Documentation/img/juego2.png" width="25%">](#)
+[<img src="Documentation/img/juego2.png" width="50%">](#)
 
 ### Methods
 Html/Css languages for a website.
