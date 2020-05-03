@@ -52,8 +52,12 @@ A stack of children's drawings dealing mostly with animal rights and the killing
 
 Gerard Johan Lodewijk Esser, was a Dutch artist, environmentalist and animal rights activist born in Amsterdam on February 15th 1908. He strongly defended baby seals from being hunted for their fur in Canada. Later on, Greenpeace would take the quest.  He was also very active in the Provo movement.
 
+<p float="left">
+<img src="Documentation/img/GERARDESSER.jpg" width="25%">
+<img src="Documentation/img/esser_stockholm.jpg" width="25%">
+</p>
 
-[<img src="Documentation/img/GERARDESSER.jpg" width="50%">](#)
+[<img src="Documentation/img/GERARDESSER.jpg" width="25%">](#)
 
 
 ### Gerard Esser Collectie at the IISH
