@@ -38,7 +38,17 @@ Box full of children's drawings on animal rights that belonged to Dutch artist, 
 | **Date** | 1971
 |![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=Esser%2C+Gerard&callnumber=BG+X1%2F12&size=small&title=%5BObject.%5D&pid=30051001389946&publication=pictoright)| Rectangular and flat wooden box, 80x65x25 cm, customized by Gerard Esser. It is painted in white and it has a handwritten text which says " International Ecological Congress at Stockholm" in black and the letters "SOS" in a larger size in red. Each word is placed playfully all over the top of the box. On the few gaps available, there are two pictures of Gerard Esser from a magazine and some other small details like two stamps, a flat metal figure and some stickers.  The box opens as if we were dealing with a suitcase without wheels from that time. On the aperture side there is a rope that goes from the left side to the right side and works as a strap to make the carrying of the box easier. From the rope hang some laminated small papers with information about the artist and the congress he dedicated this box to.
 
-# Gerard Esser
+# CONTENT OF THE BOX
+
+A stack of children's drawings dealing mostly with animal rights and the killing of baby seals.
+
+<p float="left">
+<img src="Documentation/img/drawings1.gif" width="50%">
+<img src="Documentation/img/drawings2.gif" width="47%">
+</p>
+
+
+## Gerard Esser
 
 Gerard Johan Lodewijk Esser, was a Dutch artist, environmentalist and animal rights activist born in Amsterdam on February 15th 1908. He strongly defended baby seals from being hunted for their fur in Canada. Later on, Greenpeace would take the quest.  He was also very active in the Provo movement.
 
@@ -46,7 +56,7 @@ Gerard Johan Lodewijk Esser, was a Dutch artist, environmentalist and animal rig
 [<img src="Documentation/img/GERARDESSER.jpg" width="50%">](#)
 
 
-## Gerard Esser Collectie at the IISH
+### Gerard Esser Collectie at the IISH
 This collection consisted in 2,5m worth of folders with all the archive that Gerard Esser himself donated to the Institute in several occasions. The collection included a large amount of newspapers articles where Esser was featured as an artist and as an activist, portraits, pictures of his paintings, his testament, notebooks, folders with all the writings and flyers of the Provo movement, newspapers articles about the hunting of baby seals, pictures of several demonstrations that took place in Amsterdam, letters, poems and manifestos.
 In 1972 Esser attended the UN International Ecological Congress in Stockholm and handed out to the secretary general, Maurice Strong, the half a million signatures he had collected from Dutch and Flemish school kids the last two years. He also organized a small exhibition of children's drawings in Stockholm, depicting pollution from children's eyes. With this he wanted to travel through all countries "to bring this accusation to the elderly". As an artist he portrays animals in nature.
 
@@ -60,6 +70,7 @@ In 1972 Esser attended the UN International Ecological Congress in Stockholm and
 # Transcoding
 
 In my research I could learn a lot about this specific character that Gerard Esser was. While going through all his documents I could create, what I believe, a clear idea of what kind of person he was. In one way or another I felt the urge to honor his person and the energy he spent on protecting animals.
+
 Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below.
 
 ## Transcoding No. 1
