@@ -43,8 +43,8 @@ Box full of children's drawings on animal rights that belonged to Dutch artist, 
 A stack of children's drawings dealing mostly with animal rights and the killing of baby seals.
 
 <p float="left">
-<img src="Documentation/img/drawings1.gif" width="50%">
-<img src="Documentation/img/drawings2.gif" width="47%">
+<img src="Documentation/img/drawings1.gif" width="25%">
+<img src="Documentation/img/drawings2.gif" width="40%">
 </p>
 
 
