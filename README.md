@@ -9,7 +9,7 @@
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding Tool](#Transcoding-tool)
 4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)[<img src="Documentation/img/cover_img.png" width="100%">](#)
+5. [Outcome](#Outcome)
 # ANIMAL RIGHTS FOR THE FUTURE GENERATIONS
 
 ### Table of Contents
