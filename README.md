@@ -5,15 +5,19 @@
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Content of the box](#content-of-the-box)    
-2. [Research](#Research-h1)
-3. [Transcoding](#Transcoding)
+2. [Content of the box](#content-of-the-box)
+    1. [Gerard Esser](#Gerard-Esser)
+          1. [Gerard Esser Collectie at the IISH](#Gerard-Esser-Collectie-at-the-IISH)
+          2. [My Research Questions](#my-research-questions)
+3. [Research](#Research-h1)
+4. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding Tool](#Transcoding-tool)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography)
+5. [Reflection](#Reflection)
+6. [Outcome](#Outcome)
+7. [Conclusion](#Conclusion)
+8. [Bibliography](#Bibliography)
+
 
 # Artefact
 Box full of children's drawings on animal rights that belonged to Dutch artist, environmentalist and animal rights activist, Gerard Esser.     
