@@ -1,4 +1,4 @@
-[<img src="Documentation/img/cover_img.png" width="100%">](#)
+[<img src="Documentation/img/cover.png" width="100%">](#)
 # TITLE HERE Example README.md Outline
 
 ### Table of Contents
