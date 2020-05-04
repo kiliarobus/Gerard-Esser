@@ -72,14 +72,7 @@ I wanted to use the drawings as a tool to teach children about animal rights. Fr
 ### Description
 Detailed description of the actions happening in the drawings. Combining them with music made with each drawing using a website platform that turns drawings/images into music.
 
-<p float="left">
-<img src="Documentation/img/drawing1.png" width="30%">
-<img src="Documentation/img/drawing2.png" width="30%">
-<img src="Documentation/img/drawing3.png" width="30%">
-<img src="Documentation/img/drawing4.png" width="30%">
-<img src="Documentation/img/drawing5.png" width="30%">
-<img src="Documentation/img/drawing6.png" width="30%">
-</p>
+[<img src="Documentation/img/drawingsaudios.gif" width="40%">](#)
 
 * Aim
 Describing the drawings in audio files will give the chance to really understand the cruelty of the actions in the drawings without being distracted by the colorful children's drawings.
