@@ -162,8 +162,8 @@ When making a drawing the tendency is to make something happy, sweet or harmless
 * Website
 
 <p float="left">
-<img src="Documentation/img/Website_sketch.png" width="35%">
-<img src="Documentation/img/Website_sketch1.png" width="35%">
+<img src="Documentation/img/Website_sketch.png" width="45%">
+<img src="Documentation/img/Website_sketch1.png" width="45%">
 </p>
 
 
