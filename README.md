@@ -74,10 +74,12 @@ Detailed description of the actions happening in the drawings. Combining them wi
 
 [<img src="Documentation/img/drawingsaudios.gif" width="40%">](#)
 
-* Aim
+* **Aim**
+
 Describing the drawings in audio files will give the chance to really understand the cruelty of the actions in the drawings without being distracted by the colorful children's drawings.
 
-* Goal
+* **Goal**
+
 Reach people's sensitivity and make them more aware of this issue that, even though it's been 50 years since Esser's personal fight, there is still a long way to go.
 
 ### Methods
