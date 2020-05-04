@@ -134,6 +134,17 @@ To teach what's good and what's wrong when dealing with animals.
 * Goal
 When making a drawing the tendency is to make something happy, sweet or harmless. By giving the option of choosing elements related to cruelty the "artist" will realize that those actions are indeed unacceptable.
 
+### Sketches
+I first considered two options:
+
+* Fill In The Gaps
+
+[<img src="Documentation/img/fillinthegaps.png" width="50%">](#)
+
+* "Stick and Stack" (sticker album to create your own scenario)
+
+[<img src="Documentation/img/juego2.png" width="50%">](#)
+
 ## **Idea 2**
 
 ### Description
@@ -147,15 +158,15 @@ The visitor will be in charge of visualizing the cruel actions that the children
 When making a drawing the tendency is to make something happy, sweet or harmless. By giving the option of choosing elements related to cruelty the "artist" will realize that those actions are indeed unacceptable.
 
 ### Sketches
-I first considered two options:
 
-* Fill In The Gaps
+* Website
 
-[<img src="Documentation/img/fillinthegaps.png" width="50%">](#)
+<p float="left">
+<img src="Documentation/img/Website_sketch.png" width="35%">
+<img src="Documentation/img/Website_sketch1.png" width="35%">
+</p>
 
-* "Stick and Stack" (sticker album to create your own scenario)
 
-[<img src="Documentation/img/juego2.png" width="50%">](#)
 
 ### Methods
 Html/Css languages for a website.
