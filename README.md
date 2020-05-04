@@ -70,9 +70,7 @@ I wanted to use the drawings as a tool to teach children about animal rights. Fr
 
 ## Transcoding 1
 ### Description
-Detailed description of the actions happening in the drawings. Combining them with music made with each drawing using a website platform that turns drawings/images into music.
-
-[<img src="Documentation/img/drawingsaudios.gif" width="40%">](#)
+Detailed written and audio descriptions of the actions happening in the drawings. Combining them with music made with each drawing using a website platform that turns drawings/images into music.
 
 * **Aim**
 
@@ -88,8 +86,35 @@ Reach people's sensitivity and make them more aware of this issue that, even tho
 * I used this website to get a sound/music from the drawings: http://www.imaginarysoundscape.net/#/upload
 
 
-### Results
-No final results yet.
+### Try outs
+
+**Drawings**
+
+[<img src="Documentation/img/drawingsaudios.gif" width="40%">](#)
+
+**WRITTEN DESCRIPTIONS**
+
+**Drawing 1:**
+*Five armed men, four of them are smoking, two of them are using their weapons, one of them is pulling from the tail of a seal. Two of the men have a seal by their feet. Ten seals, six of them are piled up on top of each other. Two of them are by the feet of their murderer. One of them is being pulled by the tail. One of the men is looking. A person on the side screams "This is not necessary!".*
+
+**Drawing 2:**
+*The water is dirty, dead fish in the river. Sad flowers, dying, losing their petals. Some flowers are already gone. There is no life. Some words that protest: "The air pollution ruins everything! The water is dirty. Bah!".*
+
+**Drawing 3:**
+*There is a man, there is an animal. The man's arms are reaching the animal. The animal is covered by blood.*
+
+**Drawing 4:**
+*A black bird in the background laying on the ground, the bird is hurting. A big black bird on the foreground. Red is coming out of their beaks. The white is tainted with blood.*
+
+**Drawing 5:**
+*A duck tries to swim in the water. The wings are up, the beak is open. A feeling of desperation. In the blue water there is a substance, it's black. It's oil.*
+
+**Drawing 6:**
+*A mom rabbit, two baby rabbits, one on each side of her. They are eating a green leaf. "Let us live!", "May we also live?", "Protest against death!".*
+
+**AUDIO FILES**
+
+(audio files here)
 
 ## Transcoding Tool
 ### Description
