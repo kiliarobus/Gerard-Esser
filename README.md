@@ -119,6 +119,9 @@ Reach people's sensitivity and make them more aware of this issue that, even tho
 (audio files here)
 
 ## Transcoding Tool
+
+## **Idea 1**
+
 ### Description
 Website with the option of making your own drawings using the original drawings from the box. There are different landscapes that you can choose and a toolbox with all the elements that you can use to create the drawing.  
 Once the drawing is done you'll be able to save it and make a new one.
@@ -127,6 +130,18 @@ Considering the idea of making the same kind of website but when using elements 
 
 * Aim
 To teach what's good and what's wrong when dealing with animals.
+
+* Goal
+When making a drawing the tendency is to make something happy, sweet or harmless. By giving the option of choosing elements related to cruelty the "artist" will realize that those actions are indeed unacceptable.
+
+## **Idea 2**
+
+### Description
+Website with audio recordings of detailed explanation of the drawings. The visitor will be given several landscapes and a toolbox and will be requested to make a drawing based on what they hear in the audio files.   
+Once the drawing is done you'll be able to compare it to the original and if wished, save it and make a new one.
+
+* Aim
+The visitor will be in charge of visualizing the cruel actions that the children have depicted in their drawings. When one has to commit those actions the impact is higher.
 
 * Goal
 When making a drawing the tendency is to make something happy, sweet or harmless. By giving the option of choosing elements related to cruelty the "artist" will realize that those actions are indeed unacceptable.
