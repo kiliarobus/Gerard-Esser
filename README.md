@@ -72,6 +72,15 @@ I wanted to use the drawings as a tool to teach children about animal rights. Fr
 ### Description
 Detailed description of the actions happening in the drawings. Combining them with music made with each drawing using a website platform that turns drawings/images into music.
 
+<p float="left">
+<img src="Documentation/img/drawing1.png" width="30%">
+<img src="Documentation/img/drawing2.png" width="30%">
+<img src="Documentation/img/drawing3.png" width="30%">
+<img src="Documentation/img/drawing4.png" width="30%">
+<img src="Documentation/img/drawing5.png" width="30%">
+<img src="Documentation/img/drawing6.png" width="30%">
+</p>
+
 * Aim
 Describing the drawings in audio files will give the chance to really understand the cruelty of the actions in the drawings without being distracted by the colorful children's drawings.
 
@@ -79,10 +88,10 @@ Describing the drawings in audio files will give the chance to really understand
 Reach people's sensitivity and make them more aware of this issue that, even though it's been 50 years since Esser's personal fight, there is still a long way to go.
 
 ### Methods
-I used my phone to record the description of the drawings. To edit the sound I will use After Effects or a similar program.
 
-* audio recordings:
-[<audio src="Documentation/audio/audio1.mp4">](#)
+* I used my phone to record the description of the drawings.
+* I used this website to get a sound/music from the drawings: http://www.imaginarysoundscape.net/#/upload
+
 
 ### Results
 No final results yet.
