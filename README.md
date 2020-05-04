@@ -79,12 +79,15 @@ Describing the drawings in audio files will give the chance to really understand
 Reach people's sensitivity and make them more aware of this issue that, even though it's been 50 years since Esser's personal fight, there is still a long way to go.
 
 ### Methods
-I used my phone to record the description of the drawings. To edit the sound I will use After Effects or a similar program.  
+I used my phone to record the description of the drawings. To edit the sound I will use After Effects or a similar program.
+
+* audio recordings:
+[<audio src="Documentation/audio/audio1.mp4">](#)
 
 ### Results
 No final results yet.
 
-## Transcoding Tool 
+## Transcoding Tool
 ### Description
 Website with the option of making your own drawings using the original drawings from the box. There are different landscapes that you can choose and a toolbox with all the elements that you can use to create the drawing.  
 Once the drawing is done you'll be able to save it and make a new one.
