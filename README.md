@@ -1,5 +1,4 @@
 [<img src="Documentation/img/cover.png" width="100%">](#)
-
 # ANIMAL RIGHTS FOR THE FUTURE GENERATIONS
 
 ### Table of Contents
