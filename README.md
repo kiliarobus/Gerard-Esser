@@ -81,8 +81,7 @@ Reach people's sensitivity and make them more aware of this issue that, even tho
 
 **Methods**
 
-I used my phone to record the description of the drawings.
-
+Written description of the drawings and recording of the description with a phone.
 
 **Written descriptions**
 
@@ -124,7 +123,7 @@ I used my phone to record the description of the drawings.
 
 **Description**
 
-Website where one can recreate the drawings or create new ones, using the different landscapes and elements from the original drawings. Audio description of the drawings in the background.
+A drawing tool that can be used to recreate the drawings or create new ones, using the different landscapes and elements from the original drawings.
 
 **Aim**
 
@@ -134,57 +133,25 @@ To teach what's good and what's wrong when dealing with animals.
 
 When making a drawing one tends to make something cheerful or funny. By giving the option of choosing elements related to cruelty the creator will realize that those actions are indeed unacceptable.
 
-### Sketches
-I first considered two options:
-
-* Fill In The Gaps
-
-[<img src="Documentation/img/fillinthegaps.png" width="50%">](#)
-
-* "Stick and Stack" (sticker album to create your own scenario)
+**Sketch test**
 
 [<img src="Documentation/img/juego2.png" width="50%">](#)
 
-## **Idea 2**
 
-### Description
-Website with audio recordings of detailed explanation of the drawings. The visitor will be given several landscapes and a toolbox and will be requested to make a drawing based on what they hear in the audio files.   
-Once the drawing is done you'll be able to compare it to the original and if wished, save it and make a new one.
+**Methods**
+Html/Css/Js languages for the website.
 
-* Aim
-The visitor will be in charge of visualizing the cruel actions that the children have depicted in their drawings. When one has to commit those actions the impact is higher.
+## Results
+A website where the visitor can create new scenarios from the children's drawings with all the different landscapes and elements while listening to the audio description of those drawings in the background.
 
-* Goal
-When making a drawing the tendency is to make something happy, sweet or harmless. By giving the option of choosing elements related to cruelty the "artist" will realize that those actions are indeed unacceptable.
+## Reflection
 
-### Sketches
-
-* Website
-
-<p float="left">
-<img src="Documentation/img/Website_sketch.png" width="45%">
-<img src="Documentation/img/Website_sketch1.png" width="45%">
-</p>
-
-
-
-### Methods
-Html/Css languages for a website.
-
-### Results
-Website with drawing tool.
-
-### Source Links
-
-* https://jqueryui.com/draggable/
-
-
-# Outcomes
+## Outcome
 
 * Still to be figured out.
 * Link to the website when this is finished.
 
-### Outcome Links
+## Conclusion
 
 
 
