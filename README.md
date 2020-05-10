@@ -1,5 +1,5 @@
 [<img src="Documentation/img/cover.jpg" width="100%">](#)
-# ANIMAL RIGHTS FOR THE FUTURE GENERATIONS
+# Animal Rights For Future Generations 
 
 ### Table of Contents
 1. [Artefact](#artefact)
