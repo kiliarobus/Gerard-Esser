@@ -39,8 +39,10 @@ Box full of children's drawings on animal rights that belonged to Dutch artist, 
 Gerard Johan Lodewijk Esser, was a Dutch artist, environmentalist and animal rights activist born in Amsterdam on February 15th 1908. He spent most of his life defending animal rights, especially  baby seals from being hunted for their fur in Canada. Later on, Greenpeace would take the quest.  He was also very active in the Provo movement, which was a Dutch counterculture movement in the mid-1960s that focused on provoking violent responses from authorities using non-violent bait.
 
 <p float="left">
-<img src="Documentation/img/GERARDESSER.jpg" width="35%">
-<img src="Documentation/img/esser_stockholm.jpg" width="35%">
+<img src="Documentation/img/article1.jpg" width="40%">
+<img src="Documentation/img/article2.jpg" width="40%">
+<img src="Documentation/img/article.jpg" width="40%">
+<img src="Documentation/img/article.jpg" width="40%">
 </p>
 
 ### The *Gerard Esser Collectie* at the IISH
@@ -157,7 +159,6 @@ I have thought of thousand possible ways to continue Gerard Esser's legacy or at
 <img src="Documentation/img/website2.jpg" width="45%">
 <img src="Documentation/img/website3.jpg" width="45%">
 <img src="Documentation/img/website4.jpg" width="45%">
-
 </p>
 
 [Website](https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/thepainofothers-master/index.html)
