@@ -153,7 +153,7 @@ With this transcoding
 
 
 
-[Website](https://kiliarobus.github.io/thepainofothers-master/index.html)
+[Website](file:///Users/Mac/Documents/KABK3_SEM2/CODING/thepainofothers-master/index.html)
 
 
 ## Conclusion
