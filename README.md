@@ -40,7 +40,7 @@ Gerard Johan Lodewijk Esser, was a Dutch artist, environmentalist and animal rig
 
 <p float="left">
 <img src="Documentation/img/article1.jpg" width="40%">
-<img src="Documentation/img/article2.jpg" width="45%">
+<img src="Documentation/img/article2.jpg" width="44%">
 <img src="Documentation/img/article3.jpg" width="30%">
 <img src="Documentation/img/article4.jpg" width="55%">
 </p>
