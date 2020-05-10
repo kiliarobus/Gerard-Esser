@@ -7,7 +7,7 @@
 2. [Research](#research)
     1. [Gerard Esser](#gerard-esser)
     2. [Gerard Esser Collectie at the IISH](#gerard-esser-collectie-at-the-IISH)
-    3. [Content of the box] (#content-of-the-box)
+    3. [Content of the box](#content-of-the-box)
     4. [My Research Questions](#my-research-questions)
 3. [Transcoding](#transcoding)
     1. [Transcoding 1](#transcoding-1)
@@ -34,7 +34,7 @@ Box full of children's drawings on animal rights that belonged to Dutch artist, 
 
 ## Research
 
-###Gerard Esser
+### Gerard Esser
 
 Gerard Johan Lodewijk Esser, was a Dutch artist, environmentalist and animal rights activist born in Amsterdam on February 15th 1908. He spent most of his life defending animal rights, especially  baby seals from being hunted for their fur in Canada. Later on, Greenpeace would take the quest.  He was also very active in the Provo movement, which was a Dutch counterculture movement in the mid-1960s that focused on provoking violent responses from authorities using non-violent bait.
 
