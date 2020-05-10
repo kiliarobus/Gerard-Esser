@@ -1,5 +1,5 @@
-[<img src="Documentation/img/cover.jpg" width="100%">](#)
-# Animal Rights For Future Generations 
+[<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/cover.png" width="100%">](#)
+# Animal Rights For Future Generations
 
 ### Table of Contents
 1. [Artefact](#artefact)
