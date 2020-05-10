@@ -127,9 +127,11 @@ I used my phone to record the description of the drawings.
 Website where one can recreate the drawings or create new ones, using the different landscapes and elements from the original drawings. Audio description of the drawings in the background.
 
 **Aim**
+
 To teach what's good and what's wrong when dealing with animals.
 
 **Goal**
+
 When making a drawing one tends to make something cheerful or funny. By giving the option of choosing elements related to cruelty the creator will realize that those actions are indeed unacceptable.
 
 ### Sketches
