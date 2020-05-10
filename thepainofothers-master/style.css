@@ -1,0 +1,315 @@
+body {
+  color: cyan;
+  background-color: grey;
+  font-size: 20px;
+  margin: 0;
+}
+
+@font-face {
+  font-family: 'suisse_neuemedium';
+  src: url('suisseneue-medium-webfont.woff2') format('woff2'),
+        url('suisseneue-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+  
+a {
+  text-decoration: none;
+}
+a {
+  color:inherit;
+  text-decoration: none;
+}
+a:hover {
+  color: #272929;; 
+  text-decoration:none; 
+  cursor:pointer;  
+}
+button:focus {outline:0;}
+.tab {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.tab button {
+  font-size: 20px;
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  color: cyan;
+}
+.tab button:hover {
+  text-decoration: underline;
+}
+.tab button.active {
+  text-decoration: underline;
+}
+
+/* PLAY */
+.play{
+  display: flex;
+  margin-top:25%;
+  margin-left:47%;
+  justify-content: center;
+  align-items: center;
+  cursor:pointer; 
+  background-color: transparent;
+  color: cyan;
+  font-size: medium;
+  border-style: none;
+}
+
+#change1, #change{
+  display: none;
+  position: absolute;
+  font-size: 70px;
+  background-color: transparent;
+  color: cyan;
+  border-style: none;
+  cursor: pointer;
+}
+
+#change{
+  left: 0;
+  top: 50%;
+}
+
+#change1{
+  right: 0;
+  top: 50%;
+}
+
+#random{
+  display: none;
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  position: absolute;
+  z-index: -1;
+    
+/* ENHANCEMENT */
+  background-image: url('images/landscape1.png');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;  
+}
+
+/* STICKERS */
+.vertical-menu {
+  position: absolute;
+  width: 110px;
+  top: 6%;
+  left:.5%;
+  font-size: 20px;
+  border-style: solid;
+}
+  
+.vertical-menu a {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: transparent;
+  color: cyan;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+  
+.vertical-menu a:hover {
+  text-decoration: underline;
+}
+  
+.vertical-menu a.active {
+  text-decoration: underline;
+}
+
+.animals{
+  display: none;
+  position: absolute;
+  border-style: solid;
+  border-width: 1px;
+  width: 55%;
+  height: 10vh;
+  padding: 1%;
+  padding-bottom: 5%;
+  top: 6%;
+  left: 10%;
+}
+
+.animal{
+  position: relative;
+  display: inline;
+  width: 9%;
+  z-index: 2!important;
+}
+
+.hunters{
+  display: none;
+  position: absolute;
+  border-style: solid;
+  border-width: 1px;
+  width: 10%;
+  height: 60vh;
+  padding: 1%;
+  bottom: 2%;
+  left: 10%;
+}
+
+.hunter{
+  position: relative;
+  display: inline-block;
+  height: auto;
+  width: 46%;
+  z-index: 2!important;
+}
+
+.weapons{
+  display: none;
+  position: absolute;
+  border-style: solid;
+  border-width: 1px;
+  width: 20%;
+  height: 5vh;
+  padding: 1%;
+  padding-bottom: 2%;
+  padding-left: 3%;
+  top: 6%;
+  left: 70%;
+}
+
+.weapon{
+  position: relative;
+  float: left;
+  width: 16%;
+  margin-right: 3%;
+}
+
+.blood{
+  display: none;
+  position: absolute;
+  border-style: solid;
+  border-width: 1px;
+  width: 10%;
+  height: 70vh;
+  padding: 1%;
+  padding-bottom: 2%;
+  padding-left: 3%;
+  bottom: 2%;
+  right: 2%;
+}
+
+.bloods{
+  position: relative;
+  display: inline-block;
+  width: 40%;
+  z-index: 2!important;
+}
+
+.plants{
+  display: none;
+  position: absolute;
+  border-style: solid;
+  border-width: 1px;
+  width: 38%;
+  height: 5vh;
+  padding: 1%;
+  padding-bottom: 6%;
+  padding-left: 3%;
+  bottom: 2%;
+  left: 25%;
+}
+
+.plant{
+  position: relative;
+  float: left;
+  width: 56px;
+  margin-right: 3%;
+}
+
+.others{
+  display: none;
+  position: absolute;
+  border-style: solid;
+  border-width: 1px;
+  width: 6%;
+  height: 40vh;
+  padding: 1%;
+  bottom: 2%;
+  left: 0.5%;
+}
+
+.other{
+  position: relative;
+  display: inline-block;
+  height: 20%;
+  width: 80px;
+  z-index: 2!important;
+  margin-top: 55%;
+}
+
+.close{
+  color: cyan;
+  background-color: transparent;
+  border-style: solid;
+  border-color: cyan;
+  position: absolute;
+  margin: 1%;
+}
+
+#close1{
+  right: 0;
+  top: 0;
+}
+
+#close2{
+  bottom: 0;
+  right: 0;
+}
+
+#close3{
+  top: 0;
+  right: 0;
+}
+
+#close4{
+  top: 0;
+  right: 0;
+}
+
+#close5{
+  bottom: 0;
+  right: 0;
+}
+
+#close6{
+  bottom: 0;
+  left: 0;
+}
+  
+/* AUDIO */
+#audio{
+  position: absolute;
+  top:7%;
+  left: 40%;
+}
+
+#playlist{
+  display: flex;
+  list-style: none;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#audioPlayer{
+  background-color: transparent;
+  height: 1em;
+  outline: none;
+}
+
+li{
+  text-decoration: none;
+  margin-right: 4%;
+}
