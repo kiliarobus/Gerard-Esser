@@ -151,10 +151,10 @@ I have thought of thousand possible ways to continue Gerard Esser's legacy or at
 ## Outcome
 
 <p float="left">
-<img src="Documentation/img/website1.png" width="50%">
-<img src="Documentation/img/website.png" width="47%">
-<img src="Documentation/img/website.png" width="50%">
-<img src="Documentation/img/website.png" width="47%">
+<img src="Documentation/img/website1.jpg" width="50%">
+<img src="Documentation/img/website.jpg" width="47%">
+<img src="Documentation/img/website.jpg" width="50%">
+<img src="Documentation/img/website.jpg" width="47%">
 
 </p>
 
