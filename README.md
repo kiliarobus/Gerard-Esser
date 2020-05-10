@@ -146,12 +146,17 @@ A website where the visitor can create new scenarios from the children's drawing
 
 ## Reflection
 
-With this transcoding
+I have thought of thousand possible ways to continue Gerard Esser's legacy or at least to bring his actions back to life. He had done such an amazing work to protect the most vulnerable that I felt I had to support his cause. After going from one idea to another, I decided to make an interactive website. Although there were several difficulties on the way, I managed to make something very close to what I had in mind.
 
 ## Outcome
 
+<p float="left">
+<img src="Documentation/img/website1.png" width="50%">
+<img src="Documentation/img/website.png" width="47%">
+<img src="Documentation/img/website.png" width="50%">
+<img src="Documentation/img/website.png" width="47%">
 
-
+</p>
 
 [Website](https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/thepainofothers-master/index.html)
 
@@ -159,10 +164,3 @@ With this transcoding
 ## Conclusion
 
 With this project I tried to keep Gerard Esser's activism alive and hopefully my website will, at least, make a small impact on the young generations so that they grow understanding that animals also have rights and that they should be protected and respected.
-
-
-
-
-
-
-<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc.
