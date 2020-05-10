@@ -4,17 +4,18 @@
 ### Table of Contents
 1. [Artefact](#artefact)
     1. [Metadata](#metadata)
-3. [Content of the box](#content-of-the-box)
+2. [Research](#research)
     1. [Gerard Esser](#gerard-esser)
-          1. [Gerard Esser Collectie at the IISH](#gerard-esser-collectie-at-the-IISH)
-4. [My Research Questions](#my-research-questions)
-5. [Transcoding](#transcoding)
+    2. [Gerard Esser Collectie at the IISH](#gerard-esser-collectie-at-the-IISH)
+    3. [Content of the box] (#content-of-the-box)
+    4. [My Research Questions](#my-research-questions)
+3. [Transcoding](#transcoding)
     1. [Transcoding 1](#transcoding-1)
     2. [Transcoding Tool](#transcoding-tool)
-6. [Reflection](#reflection)
-7. [Outcome](#outcome)
-8. [Conclusion](#conclusion)
-9. [Bibliography](#bibliography)
+4. [Reflection](#reflection)
+5. [Outcome](#outcome)
+6. [Conclusion](#conclusion)
+7. [Bibliography](#bibliography)
 
 
 ## Artefact
@@ -31,41 +32,42 @@ Box full of children's drawings on animal rights that belonged to Dutch artist, 
 | **Date** | 1971
 |![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=Esser%2C+Gerard&callnumber=BG+X1%2F12&size=small&title=%5BObject.%5D&pid=30051001389946&publication=pictoright)| Rectangular and flat wooden box, 80x65x25 cm, customized by Gerard Esser. It is painted in white and it has a handwritten text which says " International Ecological Congress at Stockholm" in black and the letters "SOS" in a larger size in red. Each word is placed playfully all over the top of the box. On the few gaps available, there are two pictures of Gerard Esser from a magazine and some other small details like two stamps, a flat metal figure and some stickers.  The box opens as if we were dealing with a suitcase without wheels from that time. On the aperture side there is a rope that goes from the left side to the right side and works as a strap to make the carrying of the box easier. From the rope hang some laminated small papers with information about the artist and the congress he dedicated this box to.
 
-# CONTENT OF THE BOX
+## Research
 
-A stack of children's drawings dealing mostly with animal rights and the killing of baby seals.
+###Gerard Esser
 
-[<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/drawings.gif" width="40%">](#)
-
-
-
-## Gerard Esser
-
-Gerard Johan Lodewijk Esser, was a Dutch artist, environmentalist and animal rights activist born in Amsterdam on February 15th 1908. He strongly defended baby seals from being hunted for their fur in Canada. Later on, Greenpeace would take the quest.  He was also very active in the Provo movement.
+Gerard Johan Lodewijk Esser, was a Dutch artist, environmentalist and animal rights activist born in Amsterdam on February 15th 1908. He spent most of his life defending animal rights, especially  baby seals from being hunted for their fur in Canada. Later on, Greenpeace would take the quest.  He was also very active in the Provo movement, which was a Dutch counterculture movement in the mid-1960s that focused on provoking violent responses from authorities using non-violent bait.
 
 <p float="left">
 <img src="Documentation/img/GERARDESSER.jpg" width="35%">
 <img src="Documentation/img/esser_stockholm.jpg" width="35%">
 </p>
 
-
 ### Gerard Esser Collectie at the IISH
+
 This collection consisted in 2,5m worth of folders with all the archive that Gerard Esser himself donated to the Institute in several occasions. The collection included a large amount of newspapers articles where Esser was featured as an artist and as an activist, portraits, pictures of his paintings, his testament, notebooks, folders with all the writings and flyers of the Provo movement, newspapers articles about the hunting of baby seals, pictures of several demonstrations that took place in Amsterdam, letters, poems and manifestos.
 In 1972 Esser attended the UN International Ecological Congress in Stockholm and handed out to the secretary general, Maurice Strong, the half a million signatures he had collected from Dutch and Flemish school kids the last two years. He also organized a small exhibition of children's drawings in Stockholm, depicting pollution from children's eyes. With this he wanted to travel through all countries "to bring this accusation to the elderly". As an artist he portrays animals in nature.
 
-# My Research Questions
+### Content of the box
+
+A stack of children's protest drawings with animal rights as main topic.
+
+[<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/drawings.gif" width="40%">](#)
+
+### My Research Questions
 * How to continue the legacy of Gerard Esser?
 * How to teach society about animal rights?
 * What audience do I want to reach?
 * What do I want to bring back to society?
 
-
-# Transcoding
+## Transcoding
 
 I wanted to use the drawings as a tool to teach children about animal rights. From children from the 70s to children from nowadays. Drawings brought back 50 years later to keep on fighting on a, still, very current issue.
 
-## Transcoding 1
-### Description
+### Transcoding 1
+
+**Description**
+
 Detailed written and audio descriptions of the actions happening in the drawings. Combining them with music made with each drawing using a website platform that turns drawings/images into music.
 
 * **Aim**
@@ -76,7 +78,7 @@ Describing the drawings in audio files will give the chance to really understand
 
 Reach people's sensitivity and make them more aware of this issue that, even though it's been 50 years since Esser's personal fight, there is still a long way to go.
 
-### Methods
+#### Methods
 
 * I used my phone to record the description of the drawings.
 * I used this website to get a sound/music from the drawings: http://www.imaginarysoundscape.net/#/upload
