@@ -30,7 +30,7 @@ Box full of children's drawings on animal rights that belonged to Dutch artist, 
 | **Medium** | Box
 | **Materials** | Wood
 | **Date** | 1971
-|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=Esser%2C+Gerard&callnumber=BG+X1%2F12&size=small&title=%5BObject.%5D&pid=30051001389946&publication=pictoright)| Rectangular and flat wooden box, 80x65x25 cm, customized by Gerard Esser. It is painted in white and it has a handwritten text which says " International Ecological Congress at Stockholm" in black and the letters "SOS" in a larger size in red. Each word is placed playfully all over the top of the box. On the few gaps available, there are two pictures of Gerard Esser from a magazine and some other small details like two stamps, a flat metal figure and some stickers.  The box opens as if we were dealing with a suitcase without wheels from that time. On the aperture side there is a rope that goes from the left side to the right side and works as a strap to make the carrying of the box easier. From the rope hang some laminated small papers with information about the artist and the congress he dedicated this box to.
+|![enter image description here](https://search.iisg.amsterdam/Cover/Show?author=&callnumber=BG+K21%2F816&size=small&title=%5BObject.%5D+NVV.&pid=30051001354403&publication=pictoright)| Rectangular and flat wooden box, 80x65x25 cm, customized by Gerard Esser. It is painted in white and it has a handwritten text which says " International Ecological Congress at Stockholm" in black and the letters "SOS" in a larger size in red. Each word is placed playfully all over the top of the box. On the few gaps available, there are two pictures of Gerard Esser from a magazine and some other small details like two stamps, a flat metal figure and some stickers.  The box opens as if we were dealing with a suitcase without wheels from that time. On the aperture side there is a rope that goes from the left side to the right side and works as a strap to make the carrying of the box easier. From the rope hang some laminated small papers with information about the artist and the congress he dedicated this box to.
 
 ## Research
 
@@ -56,8 +56,9 @@ A stack of children's protest drawings with animal rights as main topic.
 
 ### My Research Questions
 * How to continue the legacy of Gerard Esser?
-* How to teach society about animal rights?
+* How can I reach society?
 * What audience do I want to reach?
+* How do I teach this audience?
 * What do I want to bring back to society?
 
 ## Transcoding
