@@ -1,23 +1,23 @@
-[<img src="Documentation/img/cover.png" width="100%">](#)
+[<img src="Documentation/img/cover.jpg" width="100%">](#)
 # ANIMAL RIGHTS FOR THE FUTURE GENERATIONS
 
 ### Table of Contents
-1. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Content of the box](#content-of-the-box)
-    1. [Gerard Esser](#Gerard-Esser)
-          1. [Gerard Esser Collectie at the IISH](#Gerard-Esser-Collectie-at-the-IISH)
-3. [My Research Questions](#my-research-questions)
-4. [Transcoding](#Transcoding)
-    1. [Transcoding 1](#Transcoding-1)
-    2. [Transcoding Tool](#Transcoding-tool)
-5. [Reflection](#Reflection)
-6. [Outcome](#Outcome)
-7. [Conclusion](#Conclusion)
-8. [Bibliography](#Bibliography)
+1. [Artefact](#artefact)
+2. [Metadata](#metadata)
+3. [Content of the box](#content-of-the-box)
+    1. [Gerard Esser](#gerard-esser)
+          1. [Gerard Esser Collectie at the IISH](#gerard-esser-collectie-at-the-IISH)
+4. [My Research Questions](#my-research-questions)
+5. [Transcoding](#transcoding)
+    1. [Transcoding 1](#transcoding-1)
+    2. [Transcoding Tool](#transcoding-tool)
+6. [Reflection](#reflection)
+7. [Outcome](#outcome)
+8. [Conclusion](#conclusion)
+9. [Bibliography](#bibliography)
 
 
-# Artefact
+## Artefact
 Box full of children's drawings on animal rights that belonged to Dutch artist, environmentalist and animal rights activist, Gerard Esser.     
 
 ## Metadata
