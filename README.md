@@ -35,7 +35,8 @@ Box full of children's drawings on animal rights that belonged to Dutch artist, 
 
 A stack of children's drawings dealing mostly with animal rights and the killing of baby seals.
 
-[<img src="Documentation/img/drawings.gif" width="40%">](#)
+[<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/drawings.gif" width="40%">](#)
+
 
 
 ## Gerard Esser
