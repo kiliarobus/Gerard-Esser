@@ -119,7 +119,7 @@ Written description of the drawings and recording of the description with a phon
 
 **Audio files**
 
-* [Audio 1](audio/audio.mp4)
+* [Audio files](https://soundcloud.com/kiliams)
 
 ## Transcoding Tool
 
