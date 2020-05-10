@@ -141,7 +141,7 @@ When making a drawing one tends to make something cheerful or funny. By giving t
 **Methods**
 Html/Css/Js languages for the website.
 
-## Results
+## Result
 A website where the visitor can create new scenarios from the children's drawings with all the different landscapes and elements while listening to the audio description of those drawings in the background.
 
 ## Reflection
