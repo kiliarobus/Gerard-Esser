@@ -1,4 +1,4 @@
-[<img src="https://https://github.com/kiliarobus/Gerard-Esser/master/Documentation/img/cover.png" width="100%">](#)
+[<img src="https://https://github.com/kiliarobus/Gerard-Esser/master/Documentation/img/cover.jpg" width="100%">](#)
 # Animal Rights For Future Generations
 
 ### Table of Contents
