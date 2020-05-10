@@ -3,7 +3,7 @@
 
 ### Table of Contents
 1. [Artefact](#artefact)
-2. [Metadata](#metadata)
+    1. [Metadata](#metadata)
 3. [Content of the box](#content-of-the-box)
     1. [Gerard Esser](#gerard-esser)
           1. [Gerard Esser Collectie at the IISH](#gerard-esser-collectie-at-the-IISH)
@@ -20,7 +20,7 @@
 ## Artefact
 Box full of children's drawings on animal rights that belonged to Dutch artist, environmentalist and animal rights activist, Gerard Esser.     
 
-## Metadata
+### Metadata
 | Tag | Data |  
 |--|--|
 **IISG Call Number** | [IISG BG X1/12](https://search.iisg.amsterdam/Record/1070791)
@@ -35,10 +35,7 @@ Box full of children's drawings on animal rights that belonged to Dutch artist, 
 
 A stack of children's drawings dealing mostly with animal rights and the killing of baby seals.
 
-<p float="left">
-<img src="Documentation/img/drawings1.gif" width="30%">
-<img src="Documentation/img/drawings2.gif" width="40%">
-</p>
+[<img src="Documentation/img/drawings.gif" width="40%">](#)
 
 
 ## Gerard Esser
