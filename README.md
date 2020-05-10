@@ -148,7 +148,8 @@ A website where the visitor can create new scenarios from the children's drawing
 
 ## Outcome
 
-[website] (https://kiliarobus.github.io/​​​​​​​Example-master/thepainofothers-master/index.html) 
+[website] (https://kiliarobus.github.io/thepainofothers-master/index.html)
+
 
 ## Conclusion
 
