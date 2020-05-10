@@ -71,61 +71,66 @@ I wanted to use the drawings as a tool to teach children about animal rights. Fr
 
 Detailed audio descriptions of the actions happening in the drawings.
 
-* **Aim**
+**Aim**
 
 Describing the drawings in audio files will give the chance to really understand the cruelty of the actions in the drawings without being distracted by the colorful children's drawings.
 
-* **Goal**
+**Goal**
 
 Reach people's sensitivity and make them more aware of this issue that, even though it's been 50 years since Esser's personal fight, there is still a long way to go.
 
 **Methods**
 
-* I used my phone to record the description of the drawings.
+I used my phone to record the description of the drawings.
 
 
 **Written descriptions**
 
 * **Drawing 1:**
-*Five armed men, four of them are smoking, two of them are using their weapons, one of them is pulling from the tail of a seal. Two of the men have a seal by their feet. Ten seals, six of them are piled up on top of each other. Two of them are by the feet of their murderer. One of them is being pulled by the tail. One of the men is looking. A person on the side screams "This is not necessary!".*
+*Four seals. One man. One stick. Eight blood stains. Stop this! Stop!*
 
 * **Drawing 2:**
-*The water is dirty, dead fish in the river. Sad flowers, dying, losing their petals. Some flowers are already gone. There is no life. Some words that protest: "The air pollution ruins everything! The water is dirty. Bah!".*
+*Thee seals. One looks up. Another one is unaware. The other one is dead, lying on her own blood. By her body, an armed hunter.*
 
 * **Drawing 3:**
-*There is a man, there is an animal. The man's arms are reaching the animal. The animal is covered by blood.*
+*Big mountains. A free elephant. Let these animals live!*
 
 * **Drawing 4:**
-*A black bird in the background laying on the ground, the bird is hurting. A big black bird on the foreground. Red is coming out of their beaks. The white is tainted with blood.*
+*Ice, ice and ice. A lonely seal covered by blood. A man standing and looking. He holds a weapon.*
 
 * **Drawing 5:**
+*Red and more red. A dead seal under it.*
+
+* **Drawing 6:**
+*Five armed men, four of them are smoking, two of them are using their weapons, one of them is pulling from the tail of a seal. Two of the men have a seal by their feet. Ten seals, six of them are piled up on top of each other. Two of them are by the feet of their murderer. One of them is being pulled by the tail. One of the men is looking. A person on the side screams "This is not necessary!".*
+
+* **Drawing 7:**
+*The water is dirty, dead fish in the river. Sad flowers, dying, losing their petals. Some flowers are already gone. There is no life. Some words that protest: "The air pollution ruins everything! The water is dirty. Bah!".*
+
+* **Drawing 8:**
+*There is a man, there is an animal. The man's arms are reaching the animal. The animal is covered by blood.*
+
+* **Drawing 9:**
+*A black bird in the background laying on the ground, the bird is hurting. A big black bird on the foreground. Red is coming out of their beaks. The white is tainted with blood.*
+
+* **Drawing 10:**
 *A duck tries to swim in the water. The wings are up, the beak is open. A feeling of desperation. In the blue water there is a substance, it's black. It's oil.*
 
-
-
-**AUDIO FILES**
-
-(audio files here)
-
-**MUSIC FILES**
+**Audio files**
 
 (audio files here)
 
 ## Transcoding Tool
 
-## **Idea 1**
+**Description**
 
-### Description
-Website with the option of making your own drawings using the original drawings from the box. There are different landscapes that you can choose and a toolbox with all the elements that you can use to create the drawing.  
-Once the drawing is done you'll be able to save it and make a new one.
+Website where one can recreate the drawings or create new ones, using the different landscapes and elements from the original drawings. Audio description of the drawings in the background.
 
-Considering the idea of making the same kind of website but when using elements from the toolbox like "weapons", "hunters" or "blood", the drawing would be categorized as Wrong or Not Ok.
-
-* Aim
+**Aim**
 To teach what's good and what's wrong when dealing with animals.
 
-* Goal
-When making a drawing the tendency is to make something happy, sweet or harmless. By giving the option of choosing elements related to cruelty the "artist" will realize that those actions are indeed unacceptable.
+**Goal**
+When making a drawing one tends to make something cheerful or funny. By giving the option of choosing elements related to cruelty the creator will realize that those actions are indeed unacceptable.
 
 ### Sketches
 I first considered two options:
