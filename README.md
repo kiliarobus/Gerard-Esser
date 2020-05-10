@@ -146,13 +146,19 @@ A website where the visitor can create new scenarios from the children's drawing
 
 ## Reflection
 
+With this transcoding
+
 ## Outcome
 
-[Website](https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/thepainofothers-master/index.html)
+
+
+
+[Website](https://github.com/kiliarobus/Gerard-Esser/thepainofothers-master/index.html)
 
 
 ## Conclusion
 
+With this project I tried to keep Gerard Esser's activism alive and hopefully my website will, at least, make a small impact on the young generations so that they grow understanding that animals also have rights and that they should be protected and respected.
 
 
 
