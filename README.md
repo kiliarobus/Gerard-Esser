@@ -161,7 +161,7 @@ I have thought of thousand possible ways to continue Gerard Esser's legacy or at
 <img src="Documentation/img/website4.jpg" width="45%">
 </p>
 
-[Website](https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/thepainofothers-master/index.html)
+[Website](https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/thepainofothers-master/index.html)
 
 
 ## Conclusion
