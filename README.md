@@ -137,7 +137,7 @@ When making a drawing one tends to make something cheerful or funny. By giving t
 
 **Sketch test**
 
-[<img src="Documentation/img/juego2.png" width="50%">](#)
+[<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/juego2.png" width="50%">](#)
 
 
 **Methods**
