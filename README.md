@@ -40,10 +40,10 @@ Gerard Johan Lodewijk Esser, was a Dutch artist, environmentalist and animal rig
 
 <p float="left">
 
-<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article1.jpg" width="45%">
-<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article2.jpg" width="45%">
-<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article3.jpg" width="45%">
-<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article4.jpg" width="45%">
+<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article1.jpg" width="40%">
+<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article2.jpg" width="44%">
+<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article3.jpg" width="30%">
+<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article4.jpg" width="55%">
 
 </p>
 
