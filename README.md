@@ -2,7 +2,7 @@
 # Animal Rights For Future Generations
 
 ### Table of Contents
-1. [Artifact](#artefact)
+1. [Artefact](#artefact)
     1. [Metadata](#metadata)
 2. [Research](#research)
     1. [Gerard Esser](#gerard-esser)
