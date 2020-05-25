@@ -1,126 +1,167 @@
 /* TABS */
-window.addEventListener("load", function load() {
-    document.getElementById("defaultOpen").click();
-    });
-    function openTab(evt, tabName) {
-        // Declare all variables
-        var i, tabcontent, tablinks;
-      
-        // Get all elements with class="tabcontent" and hide them
-        tabcontent = document.getElementsByClassName("tabcontent");
-        for (i = 0; i < tabcontent.length; i++) {
-          tabcontent[i].style.display = "none";
-        }
-      
-        // Get all elements with class="tablinks" and remove the class "active"
-        tablinks = document.getElementsByClassName("tablinks");
-        for (i = 0; i < tablinks.length; i++) {
-          tablinks[i].className = tablinks[i].className.replace(" active", "");
-        }
-      
-        // Show the current tab, and add an "active" class to the button that opened the tab
-        document.getElementById(tabName).style.display = "block";
-        evt.currentTarget.className += " active";
-      }
-    
+window.addEventListener('load', function load() {
+  document.getElementById('defaultOpen').click();
+});
+function openTab(evt, tabName) {
+  // Declare all variables
+  var i, tabcontent, tablinks;
 
-/* ON PLAY SHOW LANDSCAPE + on change hide PLAY button*/
-$(document).ready(function(){
-  $(".play").click(function(){
-    $("#random").show();
-    $(".play").fadeOut();
-  });
-  $(".play").click(function(){
-    $("#change1, #change").show();
-  });
-}); 
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName('tabcontent');
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = 'none';
+  }
 
-/* RANDOM RANDOM LANDSCAPE */
-function randombg(){
-  var random= Math.floor(Math.random() * 6) + 0;
-  var bigSize = ["url('images/landscape2.png')",
-                 "url('images/landscape3.png')",
-                 "url('images/landscape4.png')",
-                 "url('images/landscape5.png')",
-                 "url('images/landscape6.png')",
-                 "url('images/landscape7.png')",
-                 "url('images/landscape8.png')",
-                 "url('images/landscape9.png')",
-                 "url('images/landscape10.png')"];
-  document.getElementById("random").style.backgroundImage=bigSize[random];
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName('tablinks');
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(' active', '');
+  }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  document.getElementById(tabName).style.display = 'block';
+  evt.currentTarget.className += ' active';
 }
 
-/* STICKERS SUBMENU */
-$(document).ready(function(){
-  $("#animals").click(function(){
-    $(".animals").show();
+/* ON PLAY SHOW LANDSCAPE + on change hide PLAY button*/
+$(document).ready(function () {
+  $('.play').click(function () {
+    $('#random').show();
+    $('.play').fadeOut();
   });
-  $("#hunters").click(function(){
-    $(".hunters").show();
-  });
-  $("#weapons").click(function(){
-    $(".weapons").show();
-  });
-  $("#blood").click(function(){
-    $(".blood").show();
-  });
-  $("#plants").click(function(){
-    $(".plants").show();
-  });
-  $("#others").click(function(){
-    $(".others").show();
-  });
-  $("#close1").click(function(){
-    $(".animals").hide();
-  });
-  $("#close2").click(function(){
-    $(".hunters").hide();
-  });
-  $("#close3").click(function(){
-    $(".weapons").hide();
-  });
-  $("#close4").click(function(){
-    $(".blood").hide();
-  });
-  $("#close5").click(function(){
-    $(".plants").hide();
-  });
-  $("#close6").click(function(){
-    $(".others").hide();
+  $('.play').click(function () {
+    $('#change1, #change').show();
   });
 });
 
-/* DRAGGABLE */
-  $(function() {
-    $(".animal, .weapon, .hunter, .bloods, .landscape, .other, .plant" ).draggable();
+/* RANDOM RANDOM LANDSCAPE */
+function randombg() {
+  var random = Math.floor(Math.random() * 6) + 0;
+  var bigSize = [
+    "url('images/landscape2.png')",
+    "url('images/landscape3.png')",
+    "url('images/landscape4.png')",
+    "url('images/landscape5.png')",
+    "url('images/landscape6.png')",
+    "url('images/landscape7.png')",
+    "url('images/landscape8.png')",
+    "url('images/landscape9.png')",
+    "url('images/landscape10.png')",
+  ];
+  document.getElementById('random').style.backgroundImage = bigSize[random];
+}
+
+/* STICKERS SUBMENU */
+$(document).ready(function () {
+  $('#animals').click(function () {
+    showItems('animals', '#close1');
+    $('.animals').show();
   });
-var scrollEventHandler = function()
-  {
-    window.scroll(0, window.pageYOffset)
-  }
-  window.addEventListener("scroll", scrollEventHandler, false); 
+  $('#hunters').click(function () {
+    showItems('hunters', '#close2');
+    $('.hunters').show();
+  });
+  $('#weapons').click(function () {
+    showItems('weapons', '#close3');
+    $('.weapons').show();
+  });
+  $('#blood').click(function () {
+    showItems('blood', '#close4');
+    $('.blood').show();
+  });
+  $('#plants').click(function () {
+    showItems('plants', '#close4');
+    $('.plants').show();
+  });
+  $('#others').click(function () {
+    showItems('others', '#close5');
+    $('.others').show();
+  });
+
+  $('#close1').click(function () {
+    hideItems('.animals', this);
+  });
+
+  $('#close2').click(function () {
+    hideItems('.hunters', this);
+  });
+  $('#close3').click(function () {
+    hideItems('.weapons', this);
+  });
+  $('#close4').click(function () {
+    hideItems('.blood', this);
+  });
+  $('#close5').click(function () {
+    hideItems('.plants', this);
+  });
+  $('#close6').click(function () {
+    hideItems('.others', this);
+  });
+});
+
+function showItems(section, closeButton) {
+  $(`#${section}`).click(function () {
+    let notMovedItems = document
+      .querySelector(`.${section}`)
+      .querySelectorAll('img:not(.moved)');
+
+    notMovedItems.forEach((item) => {
+      item.style.visibility = 'visible';
+    });
+
+    $(`.${section}`).css('border', '');
+    $(`${closeButton}`).css('display', 'block');
+  });
+}
+
+function hideItems(section, closeButton) {
+  let notMovedItems = document
+    .querySelector(`${section}`)
+    .querySelectorAll('img:not(.moved)');
+  notMovedItems.forEach((item) => {
+    item.style.visibility = 'hidden';
+  });
+
+  $(`${section}`).css('border', 'none');
+  $(closeButton).css('display', 'none');
+}
+
+/* DRAGGABLE */
+$(function () {
+  $('.animal, .weapon, .hunter, .bloods, .landscape, .other, .plant').draggable(
+    {
+      drag: function () {
+        this.classList.add('moved');
+      },
+    }
+  );
+});
+
+var scrollEventHandler = function () {
+  window.scroll(0, window.pageYOffset);
+};
+window.addEventListener('scroll', scrollEventHandler, false);
 
 /* AUDIO */
- function audioPlayer(){
+function audioPlayer() {
   var currentSong = 0;
-  $("#audioPlayer")[0].src = $("#playlist li a")[0];
-  $("#audioPlayer")[0].play();
-  $("#playlist li a").click(function(e){
-     e.preventDefault(); 
-     $("#audioPlayer")[0].src = this;
-     $("#audioPlayer")[0].play();
-     $("#playlist li").removeClass("current-song");
-      currentSong = $(this).parent().index();
-      $(this).parent().addClass("current-song");
+  $('#audioPlayer')[0].src = $('#playlist li a')[0];
+  $('#audioPlayer')[0].play();
+  $('#playlist li a').click(function (e) {
+    e.preventDefault();
+    $('#audioPlayer')[0].src = this;
+    $('#audioPlayer')[0].play();
+    $('#playlist li').removeClass('current-song');
+    currentSong = $(this).parent().index();
+    $(this).parent().addClass('current-song');
   });
-  
-  $("#audioPlayer")[0].addEventListener("ended", function(){
-     currentSong++;
-      if(currentSong == $("#playlist li a").length)
-          currentSong = 0;
-      $("#playlist li").removeClass("current-song");
-      $("#playlist li:eq("+currentSong+")").addClass("current-song");
-      $("#audioPlayer")[0].src = $("#playlist li a")[currentSong].href;
-      $("#audioPlayer")[0].play();
+
+  $('#audioPlayer')[0].addEventListener('ended', function () {
+    currentSong++;
+    if (currentSong == $('#playlist li a').length) currentSong = 0;
+    $('#playlist li').removeClass('current-song');
+    $('#playlist li:eq(' + currentSong + ')').addClass('current-song');
+    $('#audioPlayer')[0].src = $('#playlist li a')[currentSong].href;
+    $('#audioPlayer')[0].play();
   });
-} 
+}
