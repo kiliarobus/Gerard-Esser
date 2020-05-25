@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-     
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    
     <title>The Pain Of Others</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="style.css">
@@ -14,20 +14,23 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src="audioPlayer.js"></script>
 </head>
+
 <body>
     <div class="tab">
-        <button class="tablinks"  onclick="openTab(event, 'stickers')">stickers</button>
+        <button class="tablinks" onclick="openTab(event, 'stickers')">stickers</button>
         <button class="tablinks" onclick="openTab(event, 'audio')">sounds</button>
         <button id="defaultOpen" class="tablinks" onclick="openTab(event, 'hi')">clean</button>
     </div>
     <div class="in">
         <button class="play">play</button>
+
         <body onload="randombg()">
-            <div id="random"></div>  
+            <div id="random"></div>
         </body>
-        <button id="change" onclick="randombg()"> < </button>
-        <button id="change1" onclick="randombg()"> > </button>
+        <button id="change" onclick="randombg()"></button>
+        <button id="change1" onclick="randombg()"> </button>
     </div>
+    <div id="wrapper"></div>
     <div id="stickers" class="tabcontent">
         <div class="vertical-menu">
             <a id="animals" href="#">animals</a>
@@ -141,17 +144,20 @@
             <li><a href="audio/audio9.mp4">9</a></li>
             <li><a href="audio/audio10.mp4">10</a></li>
         </ul>
-    </div> 
-      <script>
-          // loads the audio player
-          audioPlayer();
-      </script> 
-      
-    <div id="clean" class="tabcontent">
-      </body>
+    </div>
+    <script>
+        // loads the audio player
+        audioPlayer();
+    </script>
 
-        <button id="change" onclick="randombg()"> < </button>
-        <button id="change1" onclick="randombg()"> > </button>
+    <div id="clean" class="tabcontent">
     </div>
 </body>
+
+<button id="change" onclick="randombg()">
+    < </button>
+        <button id="change1" onclick="randombg()"> > </button>
+        </div>
+        </body>
+
 </html>
