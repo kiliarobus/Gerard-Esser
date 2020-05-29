@@ -2,14 +2,12 @@
 window.addEventListener('load', function load() {
   document.getElementById('defaultOpen').click();
 });
-
 function openTab(evt, tabName) {
   // Declare all variables
   var i, tabcontent, tablinks;
 
   // Get all elements with class="tabcontent" and hide them
   tabcontent = document.getElementsByClassName('tabcontent');
-
   for (i = 0; i < tabcontent.length; i++) {
     tabcontent[i].style.display = 'none';
   }
@@ -23,18 +21,6 @@ function openTab(evt, tabName) {
   // Show the current tab, and add an "active" class to the button that opened the tab
   document.getElementById(tabName).style.display = 'block';
   evt.currentTarget.className += ' active';
-}
-
-function clearStickers() {
-  var allStickers = Array.from(document.querySelectorAll('.moved'));
-
-  allStickers.forEach(function(sticker, index) {
-    sticker.removeAttribute("style")
-    if(sticker.parentNode.style.border === 'none') {
-      sticker.style.visibility = 'hidden';
-    }
-    sticker.classList.remove('moved');
-  });
 }
 
 /* ON PLAY SHOW LANDSCAPE + on change hide PLAY button*/
@@ -64,6 +50,42 @@ function randombg() {
   ];
   document.getElementById('random').style.backgroundImage = bigSize[random];
 }
+
+// let movedItems = document
+//   .querySelector('#stickers')
+//   .querySelectorAll('img.moved');
+
+// let sections = document.querySelector('.vertical-menu').children;
+// let closeBtns = document
+//   .querySelector('#stickers')
+//   .querySelectorAll('div:not(.vertical-menu)');
+document.addEventListener('DOMContentLoaded', () => {
+  /* SAVE DOM ELEMENT TO IMAGE */
+  let saveImageBtn = document.getElementById('save-image-btn');
+  saveImageBtn.addEventListener('click', () => {
+    // movedItems.forEach((item) => {
+    //   item.style.visibility = 'hidden';
+    // });
+
+    // Array.from(sections).forEach((section) => {
+    //   $(`.${section.id}`).css('border', 'none');
+    // });
+
+    // Array.from(closeBtns).forEach((btn) => {
+    //   btn = btn.querySelector('button');
+    //   $(btn).css('display', 'none');
+    // });
+
+    domtoimage
+      .toJpeg(document.getElementById('wrapper'), { quality: 0.95 })
+      .then(function (dataUrl) {
+        let link = document.createElement('a');
+        link.download = 'imagen-guardada.jpeg';
+        link.href = dataUrl;
+        link.click();
+      });
+  });
+});
 
 /* STICKERS SUBMENU */
 $(document).ready(function () {
