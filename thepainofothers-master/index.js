@@ -2,12 +2,14 @@
 window.addEventListener('load', function load() {
   document.getElementById('defaultOpen').click();
 });
+
 function openTab(evt, tabName) {
   // Declare all variables
   var i, tabcontent, tablinks;
 
   // Get all elements with class="tabcontent" and hide them
   tabcontent = document.getElementsByClassName('tabcontent');
+
   for (i = 0; i < tabcontent.length; i++) {
     tabcontent[i].style.display = 'none';
   }
@@ -21,6 +23,18 @@ function openTab(evt, tabName) {
   // Show the current tab, and add an "active" class to the button that opened the tab
   document.getElementById(tabName).style.display = 'block';
   evt.currentTarget.className += ' active';
+}
+
+function clearStickers() {
+  var allStickers = Array.from(document.querySelectorAll('.moved'));
+
+  allStickers.forEach(function(sticker, index) {
+    sticker.removeAttribute("style")
+    if(sticker.parentNode.style.border === 'none') {
+      sticker.style.visibility = 'hidden';
+    }
+    sticker.classList.remove('moved');
+  });
 }
 
 /* ON PLAY SHOW LANDSCAPE + on change hide PLAY button*/
