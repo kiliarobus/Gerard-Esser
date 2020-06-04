@@ -44,7 +44,7 @@ button:focus {
   cursor: pointer;
   padding: 14px 16px;
   transition: 0.3s;
-  color: cyan;
+  color: white;
 }
 .tab button:hover {
   text-decoration: underline;
@@ -62,7 +62,7 @@ button:focus {
   align-items: center;
   cursor: pointer;
   background-color: transparent;
-  color: cyan;
+  color: white;
   font-size: medium;
   border-style: none;
 }
@@ -73,7 +73,7 @@ button:focus {
   position: absolute;
   font-size: 70px;
   background-color: transparent;
-  color: cyan;
+  color: white;
   border-style: none;
   cursor: pointer;
 }
@@ -118,7 +118,7 @@ button:focus {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   background-color: transparent;
-  color: cyan;
+  color: white;
   display: block;
   padding: 12px;
   text-decoration: none;
@@ -261,10 +261,10 @@ button:focus {
 }
 
 .close {
-  color: cyan;
+  color: white;
   background-color: transparent;
   border-style: solid;
-  border-color: cyan;
+  border-color: white;
   position: absolute;
   margin: 1%;
 }

@@ -15,7 +15,6 @@
 4. [Reflection](#reflection)
 5. [Outcome](#outcome)
 6. [Conclusion](#conclusion)
-7. [Bibliography](#bibliography)
 
 
 ## Artefact
