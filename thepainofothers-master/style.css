@@ -172,7 +172,7 @@ button:focus {
 
 .hunter {
   position: relative;
-  display: inline-block;
+  display: inline;
   height: auto;
   width: 56%;
   z-index: 2 !important;
