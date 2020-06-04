@@ -174,7 +174,7 @@ button:focus {
   position: relative;
   display: inline-block;
   height: auto;
-  width: 46%;
+  width: 56%;
   z-index: 2 !important;
 }
 
