@@ -9,125 +9,119 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js"></script>
+    <script src='index.js'></script>
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    <!-- <script src="audioPlayer.js"></script> -->
-    <script src='index.js'></script>
+    <script src="audioPlayer.js"></script>
 </head>
 
 <body>
     <div class="tab">
         <button class="tablinks" onclick="openTab(event, 'stickers')">stickers</button>
         <button class="tablinks" onclick="openTab(event, 'audio')">sounds</button>
-        <button id="defaultOpen" class="tablinks" onclick="openTab(event, 'hi'); cleanCanvas()">clean</button>
-        <button id="save-image-btn">save</button>
+        <button id="defaultOpen" class="tablinks" onclick="openTab(event, 'hi')">clean</button>
     </div>
-    <div id="wrapper">
-        <div class="in">
-            <button class="play">play</button>
+    <div class="in">
+        <button class="play">play</button>
 
-            <body onload="randombg()">
-                <div id="random"></div>
-            </body>
-            <button id="change" onclick="randombg()">
-                < </button>
-                    <button id="change1" onclick="randombg()"> > </button>
+        <body onload="randombg()">
+            <div id="random"></div>
+        </body>
+        <button id="change" onclick="randombg()"></button>
+        <button id="change1" onclick="randombg()"> </button>
+    </div>
+    <div id="wrapper"></div>
+    <div id="stickers" class="tabcontent">
+        <div class="vertical-menu">
+            <a id="animals" href="#">animals</a>
+            <a id="hunters" href="#">hunters</a>
+            <a id="weapons" href="#">weapons</a>
+            <a id="blood" href="#">blood</a>
+            <a id="plants" href="#">plants</a>
+            <a id="others" href="#">others</a>
         </div>
 
-        <div id="stickers" class="tabcontent">
-            <div class="vertical-menu">
-                <a id="animals" href="#">animals</a>
-                <a id="hunters" href="#">hunters</a>
-                <a id="weapons" href="#">weapons</a>
-                <a id="blood" href="#">blood</a>
-                <a id="plants" href="#">plants</a>
-                <a id="others" href="#">others</a>
-            </div>
+        <div class="animals">
+            <button class="close" id="close1">X</button>
+            <img class="animal" src="images/animal1.png">
+            <img class="animal" src="images/animal2.png">
+            <img class="animal" src="images/animal3.png">
+            <img class="animal" src="images/animal4.png">
+            <img class="animal" src="images/animal5.png">
+            <img class="animal" src="images/animal6.png">
+            <img class="animal" src="images/animal7.png">
+            <img class="animal" src="images/animal8.png">
+            <img class="animal" src="images/animal9.png">
+            <img class="animal" src="images/animal10.png">
+            <img class="animal" src="images/animal11.png">
+            <img class="animal" src="images/animal12.png">
+            <img class="animal" src="images/animal13.png">
+            <img class="animal" src="images/animal14.png">
+            <img class="animal" src="images/animal15.png">
+            <img class="animal" src="images/animal16.png">
+            <img class="animal" src="images/animal17.png">
+            <img class="animal" src="images/animal18.png">
+            <img class="animal" src="images/animal19.png">
+            <img class="animal" src="images/animal20.png">
+        </div>
 
+        <div class="hunters">
+            <button class="close" id="close2">X</button>
+            <img class="hunter" src="images/hunter1.png">
+            <img class="hunter" src="images/hunter2.png">
+            <img class="hunter" src="images/hunter3.png">
+            <img class="hunter" src="images/hunter4.png">
+            <img class="hunter" src="images/hunter5.png">
+            <img class="hunter" src="images/hunter6.png">
+            <img class="hunter" src="images/hunter7.png">
+            <img class="hunter" src="images/hunter8.png">
+            <img class="hunter" src="images/hunter9.png">
+        </div>
 
-            <div class="animals">
-                <button class="close" id="close1">X</button>
-                <img class="animal" src="images/animal1.png">
-                <img class="animal" src="images/animal2.png">
-                <img class="animal" src="images/animal3.png">
-                <img class="animal" src="images/animal4.png">
-                <img class="animal" src="images/animal5.png">
-                <img class="animal" src="images/animal6.png">
-                <img class="animal" src="images/animal7.png">
-                <img class="animal" src="images/animal8.png">
-                <img class="animal" src="images/animal9.png">
-                <img class="animal" src="images/animal10.png">
-                <img class="animal" src="images/animal11.png">
-                <img class="animal" src="images/animal12.png">
-                <img class="animal" src="images/animal13.png">
-                <img class="animal" src="images/animal14.png">
-                <img class="animal" src="images/animal15.png">
-                <img class="animal" src="images/animal16.png">
-                <img class="animal" src="images/animal17.png">
-                <img class="animal" src="images/animal18.png">
-                <img class="animal" src="images/animal19.png">
-                <img class="animal" src="images/animal20.png">
-            </div>
+        <div class="weapons">
+            <button class="close" id="close3">X</button>
+            <img class="weapon" src="images/weapon1.png">
+            <img class="weapon" src="images/weapon2.png">
+            <img class="weapon" src="images/weapon3.png">
+            <img class="weapon" src="images/weapon4.png">
+            <img class="weapon" src="images/weapon5.png">
+        </div>
 
-            <div class="hunters">
-                <button class="close" id="close2">X</button>
-                <img class="hunter" src="images/hunter1.png">
-                <img class="hunter" src="images/hunter2.png">
-                <img class="hunter" src="images/hunter3.png">
-                <img class="hunter" src="images/hunter4.png">
-                <img class="hunter" src="images/hunter5.png">
-                <img class="hunter" src="images/hunter6.png">
-                <img class="hunter" src="images/hunter7.png">
-                <img class="hunter" src="images/hunter8.png">
-                <img class="hunter" src="images/hunter9.png">
-            </div>
+        <div class="blood">
+            <button class="close" id="close4">X</button>
+            <img class="bloods" src="images/blood1.png">
+            <img class="bloods" src="images/blood2.png">
+            <img class="bloods" src="images/blood3.png">
+            <img class="bloods" src="images/blood4.png">
+            <img class="bloods" src="images/blood5.png">
+            <img class="bloods" src="images/blood6.png">
+            <img class="bloods" src="images/blood7.png">
+            <img class="bloods" src="images/blood8.png">
+            <img class="bloods" src="images/blood9.png">
+            <img class="bloods" src="images/blood10.png">
+            <img class="bloods" src="images/blood11.png">
+            <img class="bloods" src="images/blood12.png">
+            <img class="bloods" src="images/blood13.png">
+            <img class="bloods" src="images/blood14.png">
+            <img class="bloods" src="images/blood15.png">
+            <img class="bloods" src="images/blood16.png">
+        </div>
 
-            <div class="weapons">
-                <button class="close" id="close3">X</button>
-                <img class="weapon" src="images/weapon1.png">
-                <img class="weapon" src="images/weapon2.png">
-                <img class="weapon" src="images/weapon3.png">
-                <img class="weapon" src="images/weapon4.png">
-                <img class="weapon" src="images/weapon5.png">
-            </div>
+        <div class="plants">
+            <button class="close" id="close5">X</button>
+            <img class="plant" src="images/plant1.png">
+            <img class="plant" src="images/plant2.png">
+            <img class="plant" src="images/plant3.png">
+            <img class="plant" src="images/plant4.png">
+            <img class="plant" src="images/plant5.png">
+            <img class="plant" src="images/plant6.png">
+            <img class="plant" src="images/plant7.png">
+        </div>
 
-            <div class="blood">
-                <button class="close" id="close4">X</button>
-                <img class="bloods" src="images/blood1.png">
-                <img class="bloods" src="images/blood2.png">
-                <img class="bloods" src="images/blood3.png">
-                <img class="bloods" src="images/blood4.png">
-                <img class="bloods" src="images/blood5.png">
-                <img class="bloods" src="images/blood6.png">
-                <img class="bloods" src="images/blood7.png">
-                <img class="bloods" src="images/blood8.png">
-                <img class="bloods" src="images/blood9.png">
-                <img class="bloods" src="images/blood10.png">
-                <img class="bloods" src="images/blood11.png">
-                <img class="bloods" src="images/blood12.png">
-                <img class="bloods" src="images/blood13.png">
-                <img class="bloods" src="images/blood14.png">
-                <img class="bloods" src="images/blood15.png">
-                <img class="bloods" src="images/blood16.png">
-            </div>
-
-            <div class="plants">
-                <button class="close" id="close5">X</button>
-                <img class="plant" src="images/plant1.png">
-                <img class="plant" src="images/plant2.png">
-                <img class="plant" src="images/plant3.png">
-                <img class="plant" src="images/plant4.png">
-                <img class="plant" src="images/plant5.png">
-                <img class="plant" src="images/plant6.png">
-                <img class="plant" src="images/plant7.png">
-            </div>
-
-            <div class="others">
-                <button class="close" id="close6">X</button>
-                <img class="other" src="images/pollution.png">
-                <img class="other" src="images/person.png">
-            </div>
+        <div class="others">
+            <button class="close" id="close6">X</button>
+            <img class="other" src="images/pollution.png">
+            <img class="other" src="images/person.png">
         </div>
     </div>
 
