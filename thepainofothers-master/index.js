@@ -23,15 +23,6 @@ function openTab(evt, tabName) {
   evt.currentTarget.className += ' active';
 }
 
-function cleanCanvas() {
-  let movedImages = document.querySelectorAll('.moved');
-  movedImages.forEach((image) => {
-    image.classList.remove('moved');
-    image.style = 'visibility: hidden';
-    image.parentNode.style.display = 'none';
-  });
-}
-
 /* ON PLAY SHOW LANDSCAPE + on change hide PLAY button*/
 $(document).ready(function () {
   $('.play').click(function () {
@@ -60,10 +51,31 @@ function randombg() {
   document.getElementById('random').style.backgroundImage = bigSize[random];
 }
 
+// let movedItems = document
+//   .querySelector('#stickers')
+//   .querySelectorAll('img.moved');
+
+// let sections = document.querySelector('.vertical-menu').children;
+// let closeBtns = document
+//   .querySelector('#stickers')
+//   .querySelectorAll('div:not(.vertical-menu)');
 document.addEventListener('DOMContentLoaded', () => {
   /* SAVE DOM ELEMENT TO IMAGE */
   let saveImageBtn = document.getElementById('save-image-btn');
   saveImageBtn.addEventListener('click', () => {
+    // movedItems.forEach((item) => {
+    //   item.style.visibility = 'hidden';
+    // });
+
+    // Array.from(sections).forEach((section) => {
+    //   $(`.${section.id}`).css('border', 'none');
+    // });
+
+    // Array.from(closeBtns).forEach((btn) => {
+    //   btn = btn.querySelector('button');
+    //   $(btn).css('display', 'none');
+    // });
+
     domtoimage
       .toJpeg(document.getElementById('wrapper'), { quality: 0.95 })
       .then(function (dataUrl) {
