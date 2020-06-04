@@ -1,16 +1,17 @@
+@font-face {
+  font-family: 'suisse_neuemedium';
+  src: url('SuisseNeue-Medium.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
   color: cyan;
   background-color: grey;
   font-size: 20px;
   margin: 0;
-}
 
-@font-face {
-  font-family: 'suisse_neuemedium';
-  src: url('suisseneue-medium-webfont.woff2') format('woff2'),
-    url('suisseneue-medium-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
+  font-family: 'suisse_neuemedium', sans-serif;
 }
 
 a {
@@ -28,11 +29,13 @@ a:hover {
 button:focus {
   outline: 0;
 }
+
 .tab {
   display: flex;
   width: 100%;
   justify-content: space-between;
 }
+
 .tab button {
   font-size: 20px;
   background-color: inherit;
@@ -140,8 +143,8 @@ button:focus {
   position: absolute;
   border-style: solid;
   border-width: 1px;
-  width: 55%;
-  height: 10vh;
+  width: 50%;
+  height: 22vh; /* size of the whole container */
   padding: 1%;
   padding-bottom: 5%;
   top: 6%;
@@ -150,8 +153,8 @@ button:focus {
 
 .animal {
   position: relative;
+  width: 14%; /* size of the individual image */
   display: inline;
-  width: 9%;
   z-index: 2 !important;
 }
 
