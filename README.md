@@ -51,7 +51,7 @@ In 1972 Esser attended the UN International Ecological Congress in Stockholm and
 
 A collection of Dutch children's protest drawings with animal rights as main topic. All the drawings have the name and the last name of the maker and the age and they were made with colored pencils or acrylic paint.
 
-[<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/drawings.gif" width="40%">]
+<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/drawings.gif" width="40%">
 
 ### My research questions
 * How to continue the legacy of Gerard Esser?
