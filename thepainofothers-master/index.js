@@ -38,6 +38,7 @@ $(document).ready(function () {
 function randombg() {
   var random = Math.floor(Math.random() * 6) + 0;
   var bigSize = [
+    "url('images/landscape1.png')",
     "url('images/landscape2.png')",
     "url('images/landscape3.png')",
     "url('images/landscape5.png')",
