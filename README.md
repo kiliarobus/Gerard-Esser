@@ -6,7 +6,7 @@
     1. [Metadata](#metadata)
 2. [Research](#research)
     1. [Gerard Esser](#gerard-esser)
-    2. [Gerard Esser Collectie at the IISH](#gerard-esser-collectie-at-the-IISH)
+    2. [The Gerard Esser Collectie at the IISH](#the-gerard-esser-collectie-at-the-IISH)
     3. [Content of the box](#content-of-the-box)
     4. [My Research Questions](#my-research-questions)
 3. [Transcoding](#transcoding)
@@ -42,7 +42,7 @@ Gerard Johan Lodewijk Esser, was a Dutch artist, environmentalist and animal rig
 | [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article3.jpg">](#) | [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article4.jpg">](#)
 
 
-### The "Gerard Esser Collectie" at the IISH
+### The *Gerard Esser Collectie* at the IISH
 
 This collection consisted in 2,5m worth of folders with all the archive that Gerard Esser himself donated to the Institute in several occasions. The collection included a large amount of newspapers articles where Esser was featured as an artist and as an activist, portraits, pictures of his paintings, his testament, notebooks, folders with all the writings and flyers of the Provo movement, newspapers articles about the hunting of baby seals, pictures of several demonstrations that took place in Amsterdam, letters, poems and manifestos.
 In 1972 Esser attended the UN International Ecological Congress in Stockholm and handed out to the secretary general, Maurice Strong, the half a million signatures he had collected from Dutch and Flemish school kids the last two years. He also organized a small exhibition of children's drawings in Stockholm, depicting pollution from children's eyes. With this he wanted to travel through all countries "to bring this accusation to the elderly". As an artist he portrays animals in nature.
