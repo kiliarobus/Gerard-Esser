@@ -40,7 +40,6 @@ function randombg() {
   var bigSize = [
     "url('images/landscape2.png')",
     "url('images/landscape3.png')",
-    "url('images/landscape4.png')",
     "url('images/landscape5.png')",
     "url('images/landscape6.png')",
     "url('images/landscape7.png')",

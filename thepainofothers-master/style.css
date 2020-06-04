@@ -55,7 +55,7 @@ button:focus {
 
 /* PLAY */
 .play {
-  display: flex;
+  display: block;
   margin-top: 25%;
   margin-left: 47%;
   justify-content: center;
@@ -64,7 +64,7 @@ button:focus {
   background-color: transparent;
   color: white;
   font-family: 'compagnon';
-  font-size: medium;
+  font-size: 20px;
   border-style: none;
 }
 
@@ -101,8 +101,9 @@ button:focus {
 
   /* ENHANCEMENT */
   background-image: url('images/landscape1.png');
+  border: 2px solid black;
   background-position: center center;
-  background-size: cover;
+  background-size: auto;
   background-repeat: no-repeat;
 }
 
