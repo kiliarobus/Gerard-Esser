@@ -9,10 +9,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src='index.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dom-to-image/2.6.0/dom-to-image.min.js"></script>
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src="audioPlayer.js"></script>
+    <script src='index.js'></script>
 </head>
 
 <body>
@@ -22,6 +23,7 @@
         <button id="defaultOpen" class="tablinks" onclick="openTab(event, 'hi')">clean</button>
         <button id="save-image-btn">save</button>
     </div>
+  <div id="wrapper">
     <div class="in">
         <button class="play">play</button>
 
@@ -125,6 +127,7 @@
             <img class="other" src="images/person.png">
         </div>
     </div>
+  </div>
 
     <div id="hi" class="tabcontent">
     </div>
