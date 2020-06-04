@@ -225,7 +225,7 @@ button:focus {
   border-style: solid;
   border-width: 1px;
   width: 38%;
-  height: 5vh;
+  height: 6vh;
   padding: 1%;
   padding-bottom: 6%;
   padding-left: 3%;
@@ -236,7 +236,7 @@ button:focus {
 .plant {
   position: relative;
   float: left;
-  width: 56px;
+  width: 46px;
   margin-right: 3%;
 }
 
