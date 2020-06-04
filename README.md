@@ -37,9 +37,9 @@ Box full of children's drawings on animal rights that belonged to Dutch artist, 
 
 Gerard Johan Lodewijk Esser, was a Dutch artist, environmentalist and animal rights activist born in Amsterdam on February 15th 1908. He spent most of his life defending animal rights, especially  baby seals from being hunted for their fur in Canada. Later on, Greenpeace would take the quest.  He was also very active in the Provo movement, which was a Dutch counterculture movement in the mid-1960s that focused on provoking violent responses from authorities using non-violent bait.
 
-| [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article1.jpg">](#) | [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article2.jpg">](#) |  
+| [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article1.jpg">] | [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article2.jpg">] |  
 |--|--|
-| [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article3.jpg">](#) | [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article4.jpg">](#)
+| [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article3.jpg">] | [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/article4.jpg">]
 
 
 ### The *Gerard Esser Collectie* at the IISH
@@ -134,7 +134,7 @@ When making a drawing one tends to make something cheerful or funny. By giving t
 
 **Sketch test**
 
-[<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/juego2.png" width="50%">](#)
+[<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/juego2.png" width="50%">]
 
 
 **Methods**
@@ -151,9 +151,9 @@ I have thought of thousand possible ways to continue Gerard Esser's legacy or at
 
 ## Outcome
 
-| [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/website1.jpg">](#) | [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/website2.jpg">](#) |  
+| [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/website1.jpg">] | [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/website2.jpg">] |  
 |--|--|
-| [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/website3.jpg">](#) | [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/website4.jpg">](#)
+| [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/website3.jpg">] | [<img src="https://raw.githubusercontent.com/kiliarobus/Gerard-Esser/master/Documentation/img/website4.jpg">]
 
 
 
