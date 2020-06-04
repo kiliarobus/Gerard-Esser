@@ -144,7 +144,7 @@ button:focus {
   border-style: solid;
   border-width: 1px;
   width: 50%;
-  height: 22vh; /* size of the whole container */
+  height: 24vh; /* size of the whole container */
   padding: 1%;
   padding-bottom: 5%;
   top: 6%;
